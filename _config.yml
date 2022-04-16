@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
 title: Stacy Brody
-position: Medical Librarian
-email: 
-keywords: medical librarianship, scholarly communications, systematic reviews, literature searching 
-google_scholar: https://scholar.google.com/citations?user=e-V_fzQAAAAJ&hl=en
-orcid_id: https://orcid.org/0000-0002-2817-3849
-canonical: https://sbbrody.github.io
+description: Medical Librarian
+
